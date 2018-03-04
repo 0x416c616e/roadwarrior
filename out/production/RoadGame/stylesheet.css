@@ -1,0 +1,9 @@
+.button {
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.label {
+    -fx-background-color: rgb(252,252,252);
+    -fx-opacity: 1;
+}
